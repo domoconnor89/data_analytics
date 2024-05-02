@@ -1,0 +1,71 @@
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Environments
+.DS_store
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+#MacOS
+.DS_Store
+
+# data files
+names/
+
+02_api/
+
+02_visualisation_types/
+03_calculated_fields/
+04_dashboard_stories/
+05_table_calculations/
+06_LoD/
+07_sets/
+06_tableau/data
+
+10_career/data
+
+11_final_project/Ideas
+
+all_city_weather.json
+Berlin_20230524(1).json
+Berlin_yr.json
+
+.ipynb_checkpoints
+.~smartbuy_presentation__9072.twbr
