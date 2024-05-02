@@ -1,4 +1,4 @@
-# Project: F⚽⚽TBALL: EXPECTED GOALS (xG) PAYER REVIEW (SEASON 2022/23) 
+# Project: F⚽⚽TBALL: EXPECTED GOALS (xG) PLAYER REVIEW (SEASON 2022/23) 
 
 ### Project Description
 
