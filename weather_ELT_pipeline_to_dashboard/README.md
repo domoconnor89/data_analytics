@@ -15,7 +15,7 @@ Work with a large, messy, real-world dataset using the Weather API, which contai
 Design interactive charts and maps to create an interactive web app, using dash and deploying with render!
 
 ### <ins>Identify Data Sources</ins>
-- Access data from real world API using a python script ([www.weatherapi.com])
+- Access data from real world API using a python script (www.weatherapi.com)
 
 ### <ins>Retrieve Data</ins>
 - Querying the API and using SQLalchemy and import raw data into postgres database
