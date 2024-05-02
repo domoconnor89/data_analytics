@@ -1,0 +1,7 @@
+species,island,flipper_length_mm,body_mass_g,sex
+Adelie,Torgersen,181.0,3750.0,male
+Adelie,Dream,178.0,3900.0,male
+Gentoo,Biscoe,211.0,4500.0,female
+Gentoo,Biscoe,230.0,5700.0,male
+Chinstrap,Dream,192.0,3500.0,female
+
